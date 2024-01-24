@@ -100,6 +100,8 @@ namespace keyboardmenu
             displayNetworkInfo(NetworkInterfaceType.Wireless80211);
             printmac();
             getOperatingSystemInfo();
+            WriteLine("press any key to spoof mac");
+            ReadKey(true);
             spoofMAC();
             Exit();
         }
