@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "keyboardmenu/1.0.0": {
+        "runtime": {
+          "keyboardmenu.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "keyboardmenu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\hamit\source\repos\keyboardmenu\keyboardmenu\bin\Debug\net8.0\keyboardmenu.exe
+C:\Users\hamit\source\repos\keyboardmenu\keyboardmenu\bin\Debug\net8.0\keyboardmenu.deps.json
+C:\Users\hamit\source\repos\keyboardmenu\keyboardmenu\bin\Debug\net8.0\keyboardmenu.runtimeconfig.json
+C:\Users\hamit\source\repos\keyboardmenu\keyboardmenu\bin\Debug\net8.0\keyboardmenu.dll
+C:\Users\hamit\source\repos\keyboardmenu\keyboardmenu\bin\Debug\net8.0\keyboardmenu.pdb
+C:\Users\hamit\source\repos\keyboardmenu\keyboardmenu\obj\Debug\net8.0\keyboardmenu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamit\source\repos\keyboardmenu\keyboardmenu\obj\Debug\net8.0\keyboardmenu.AssemblyInfoInputs.cache
+C:\Users\hamit\source\repos\keyboardmenu\keyboardmenu\obj\Debug\net8.0\keyboardmenu.AssemblyInfo.cs
+C:\Users\hamit\source\repos\keyboardmenu\keyboardmenu\obj\Debug\net8.0\keyboardmenu.csproj.CoreCompileInputs.cache
+C:\Users\hamit\source\repos\keyboardmenu\keyboardmenu\obj\Debug\net8.0\keyboardmenu.dll
+C:\Users\hamit\source\repos\keyboardmenu\keyboardmenu\obj\Debug\net8.0\refint\keyboardmenu.dll
+C:\Users\hamit\source\repos\keyboardmenu\keyboardmenu\obj\Debug\net8.0\keyboardmenu.pdb
+C:\Users\hamit\source\repos\keyboardmenu\keyboardmenu\obj\Debug\net8.0\keyboardmenu.genruntimeconfig.cache
+C:\Users\hamit\source\repos\keyboardmenu\keyboardmenu\obj\Debug\net8.0\ref\keyboardmenu.dll
